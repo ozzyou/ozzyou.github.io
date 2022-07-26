@@ -1,4 +1,4 @@
-![ATLAS lab logo](/img/Lab_logos.png "Lab Logos")
+![ATLAS lab logo](./img/Lab_logos.png)
 
 ## Good to see you here!
 
