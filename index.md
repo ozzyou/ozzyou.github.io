@@ -1,4 +1,4 @@
-![ATLAS lab logo](/img/logo_donker.png "")
+![ATLAS lab logo](/img/Lab_logos.png "")
 
 ## Good to see you here!
 
@@ -8,4 +8,4 @@ In my work, I mainly focus on leveraging from structure in visual data and impli
 
 ### Publications
 
-_Ulger, O., Stol, M., Mensink, T., 2018. Evaluating the Effectiveness of Adversarial Patch Attacks on Convolutional Neural Networks. In BNAIC2018 (pp. XX-XX)_ [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670613.pdf)][[project cite](https://we-wan.github.io/JLNet/)][[github](https://github.com/we-wan/JLNet)]
+_Ulger, O., Stol, M., Mensink, T., 2018. Evaluating the Effectiveness of Adversarial Patch Attacks on Convolutional Neural Networks. In BNAIC2018_ [[paper](https://www.dropbox.com/s/80uo3wsxtgngzmk/Ulger_Stol_Mensink_BNAIC2018.pdf?dl=0)]
