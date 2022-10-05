@@ -8,4 +8,6 @@ In my work, I mainly focus on leveraging from structure in visual data and impli
 
 ### Publications
 
+_Ulger, O., Wiederer, J., Ghafoorian, M., Belagiannis, V., Mettes, P., 2022. Multi-Task Edge Prediction in Temporally-Dynamic Video Graphs. In BMVC2022_
+
 _Ulger, O., Stol, M., Mensink, T., 2018. Evaluating the Effectiveness of Adversarial Patch Attacks on Convolutional Neural Networks. In BNAIC2018_ [[paper](https://www.dropbox.com/s/80uo3wsxtgngzmk/Ulger_Stol_Mensink_BNAIC2018.pdf?dl=0)]
