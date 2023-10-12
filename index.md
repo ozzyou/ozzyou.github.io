@@ -8,6 +8,8 @@ In my work, I mainly focus on leveraging from structure in visual data and impli
 
 ### Publications
 
+_Ulger, O., Wang, Y., Galama, Y., Karaoglu, S., Gevers, T., Oswald, M. R., 2023. Relational Prior Knowledge Graphs for Detection and Instance Segmentation. In ICCV2023 SG2RL_ [[paper](https://arxiv.org/abs/2310.07573)]
+
 _Ulger, O., Wiederer, J., Ghafoorian, M., Belagiannis, V., Mettes, P., 2022. Multi-Task Edge Prediction in Temporally-Dynamic Video Graphs. In BMVC2022_ [[paper](https://arxiv.org/abs/2212.02875)]
 
 _Ulger, O., Stol, M., Mensink, T., 2018. Evaluating the Effectiveness of Adversarial Patch Attacks on Convolutional Neural Networks. In BNAIC2018_ [[paper](https://www.dropbox.com/s/80uo3wsxtgngzmk/Ulger_Stol_Mensink_BNAIC2018.pdf?dl=0)]
