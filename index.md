@@ -8,7 +8,7 @@ In my work, I mainly focus on leveraging structure and language in visual data a
 
 ### Publications
 
-_Wei, W., Ulger, O., Najadasl, F. K., Gevers, T., Oswald, M. W., 2024. Auto-Vocabulary Segmentation for LiDAR Points. arXiv preprint_ [[paper](https://arxiv.org/abs/2406.09126)]
+_Wei, W.*, Ulger, O.*, Najadasl, F. K., Gevers, T., Oswald, M. W., 2024. Auto-Vocabulary Segmentation for LiDAR Points. arXiv preprint_ [[paper](https://arxiv.org/abs/2406.09126)]
 
 _Ulger, O., Kulicki, M., Asano, Y., Oswald, M. R., 2023. Auto-Vocabulary Semantic Segmentation. arXiv preprint_ [[paper](https://arxiv.org/abs/2312.04539)] [[code](https://github.com/ozzyou/AutoSeg)]
 
