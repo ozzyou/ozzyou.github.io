@@ -1,6 +1,6 @@
 ![ATLAS lab logo](./img/Lab_logos.png)
 
-## Good to see you here!
+## Hello!
 
 I am a PhD graduate from the ATLAS Lab, a collaboration between the [University of Amsterdam](https://www.uva.nl/) and [TomTom](https://www.tomtom.com/). In January 2026, I publicly defended my thesis titled Visual Understanding of Dynamic Scenes using Object Relationships and Open Vocabularies. I was supervised by [Prof. dr. Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/), [dr. Martin Oswald](https://people.inf.ethz.ch/moswald/) and [dr. Sezer Karaoglu](http://staff.science.uva.nl/~sezerk). Next to my research, I worked as a teaching assistant in the courses Computer Vision 1, Computer Vision 2 and have supervised master AI students Maksymilian Kulicki and Robin Sasse.
 
@@ -23,3 +23,10 @@ _Ulger, O., Wiederer, J., Ghafoorian, M., Belagiannis, V., Mettes, P., 2022. Mul
 _Ulger, O., Stol, M., Mensink, T., 2018. Evaluating the Effectiveness of Adversarial Patch Attacks on Convolutional Neural Networks. In BNAIC2018_ [[paper](https://www.dropbox.com/s/80uo3wsxtgngzmk/Ulger_Stol_Mensink_BNAIC2018.pdf?dl=0)]
 
 _*equal contribution._
+
+### In Other News..
+**2025 — Outstanding Reviewer, CVPR**  
+I was selected as an outstanding reviewer.
+
+**2024 — Invited Speaker, Nissan Motor Corporation**  
+I gave a talk on open-ended perception and vocabulary-free segmentation.
