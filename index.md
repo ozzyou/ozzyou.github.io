@@ -2,9 +2,13 @@
 
 ## Good to see you here!
 
-I am a PhD candidate in the ATLAS Lab, which is a collaboration between the [University of Amsterdam](https://www.uva.nl/) and [TomTom](https://www.tomtom.com/). The goal of the ATLAS lab, part of the [Innovation Center for Artificial Intelligence (ICAI)](https://icai.ai/) and [Computer Vision Group](https://ivi.fnwi.uva.nl/cv/), is the development new machine learning-based algorithms for high definition map creation for self-driving vehicles. My work is focused on Structured Segmentation, and I am supervised by [Prof. dr. Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/), [dr. Martin Oswald](https://people.inf.ethz.ch/moswald/) and [dr. Sezer Karaoglu](http://staff.science.uva.nl/~sezerk).
+I am a PhD graduate from the ATLAS Lab, a collaboration between the [University of Amsterdam](https://www.uva.nl/) and [TomTom](https://www.tomtom.com/). In January 2026, I publicly defended my thesis titled Visual Understanding of Dynamic Scenes using Object Relationships and Open Vocabularies. I was supervised by [Prof. dr. Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/), [dr. Martin Oswald](https://people.inf.ethz.ch/moswald/) and [dr. Sezer Karaoglu](http://staff.science.uva.nl/~sezerk). Next to my research, I worked as a teaching assistant in the courses Computer Vision 1, Computer Vision 2 and (have) supervise(d) master AI students Maksymilian Kulicki and Robin Sasse.
 
-In my work, I mainly focus on leveraging structure and language in visual data and implicitly or explicitly imposing such properties for the tasks of semantic, instance and panoptic segmentation. I explore possibilities to extend traditional segmentation networks with theories of language-, generative- and graph models. Next to my research, I am a teaching assistant in the courses Computer Vision 1, Computer Vision 2 and (have) supervise(d) master AI students Maksymilian Kulicki and Robin Sasse.
+My PhD research mainly focused on open-ended perception in 2D, 3D and video without a human-in-the-loop. Our methods automatically generate target vocabularies from the data itself, allowing for scene-specific, flexible vocabulary adaptation without requiring manual prompting of the vocabulary. We coin these methods _Auto-Vocabulary_ or _Vocabulary-Free_. A second line of work focused on leveraging relational properties for downstream tasks such as instance segmentation.
+
+Currently, I work as a Machine Learning/Computer Vision Engineer in the biotechnology sector to accelerate drug discovery for neurodegenerative diseases with computer vision.
+
+Simultenously, I am building open-ended perception models for real-world use with my own start-up, [Unseen AI](https://unsn.ai).
 
 ### Publications
 
